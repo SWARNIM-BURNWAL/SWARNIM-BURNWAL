@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnim-burnwal&label=Profile%20views&color=0e75b6&style=flat" alt="swarnim-burnwal" /> </p>
+<p align="left"> <img src="https://amplify.nabshow.com/wp-content/uploads/sites/12/2022/02/AI-deeplearning.gif" alt="swarnim-burnwal" /> </p>
 
 
 - 🌱 I’m currently learning **Deep Learning**

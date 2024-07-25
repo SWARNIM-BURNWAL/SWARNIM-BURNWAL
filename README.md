@@ -1,7 +1,9 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)]
 
+<hr/>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Playwrite+BE+VLG&size=35&color=00BAFF&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There !!!+👋;+I'm+Swarnim+Burnwal !!!+✨✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swarnim+Burnwal!;" />
 </h1>
 
 
@@ -21,6 +23,7 @@
 
 </div>
 
+<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -29,6 +32,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,bash,html,css,javascript,express,firebase,mongodb,mysql,c,cpp,nextjs,flask" /><br>
 </div>
 
+<hr/>
 
 <h2 align="center">⚡️ Stats ⚡</h2>
 <br>

@@ -1,7 +1,7 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)]
 
-<h1 align="center" style="user-select: none;">
-    <img draggable="false" src="https://readme-typing-svg.herokuapp.com/?font=Playwrite+BE+VLG&size=35&color=00BAFF&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There !!!+👋;+I'm+Swarnim+Burnwal !!!+✨✨;" />
+<h1 draggable="false" align="center" style="user-select: none;">
+    <img draggable="false" style="user-select: none;" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swarnim+Burnwal!;" />
 </h1>
 
 

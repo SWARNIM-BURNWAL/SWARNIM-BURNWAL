@@ -21,6 +21,7 @@
 
 </div>
 
+<hr/>
 
 <h2 align="center" style="user-select: none;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -29,6 +30,7 @@
     <img draggable="false" style="user-select: none;" src="https://skillicons.dev/icons?i=nodejs,python,bash,html,css,javascript,express,firebase,mongodb,mysql,c,cpp,nextjs,flask" /><br>
 </div>
 
+<hr/>
 
 <h2 align="center" style="user-select: none;">⚡️ Stats ⚡</h2>
 <br>

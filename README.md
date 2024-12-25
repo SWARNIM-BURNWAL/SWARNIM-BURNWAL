@@ -26,8 +26,8 @@
 <h2 align="center" style="user-select: none;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center" style="user-select: none;">
-    <img draggable="false" style="user-select: none;" src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,figma,tailwind,git,arduino,pytorch,tensorflow,docker,linux,flutter" />
-    <img draggable="false" style="user-select: none;" src="https://skillicons.dev/icons?i=nodejs,python,bash,html,css,javascript,express,firebase,mongodb,mysql,c,cpp,nextjs,nestjs,nodejs,flask,fastapi,typescript" /><br>
+    <img draggable="false" style="user-select: none;" src="https://skillicons.dev/icons?i=react,bootstrap,vscode,fastapi,github,figma,tailwind,git,arduino,pytorch,tensorflow,docker,linux,flutter,typescript" />
+    <img draggable="false" style="user-select: none;" src="https://skillicons.dev/icons?i=nodejs,python,bash,html,css,javascript,express,firebase,mongodb,mysql,c,cpp,nextjs,nestjs,nodejs" /><br>
 </div>
 
 <hr/>
